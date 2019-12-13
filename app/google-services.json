@@ -1,0 +1,123 @@
+{
+  "project_info": {
+    "project_number": "375221960976",
+    "firebase_url": "https://admoblasttest.firebaseio.com",
+    "project_id": "admoblasttest",
+    "storage_bucket": "admoblasttest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375221960976:android:78f9e55721312588",
+        "android_client_info": {
+          "package_name": "com.medanis.admobinrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375221960976-lmo2osdbeivfn9r7q2dar52f53g0ssio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medanis.admobinrecyclerview",
+            "certificate_hash": "8862359418dd8e94d42ab477d3e0ca2b400a01d8"
+          }
+        },
+        {
+          "client_id": "375221960976-091jll2ep5a5fsdlsilppvfjejup1ilk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNePt_f0fGKT6GYwJvuyw87GMuOC2sO2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375221960976-091jll2ep5a5fsdlsilppvfjejup1ilk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375221960976:android:e1b413aa02d71f7a",
+        "android_client_info": {
+          "package_name": "com.medanis.admoblasttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375221960976-7unlk7lg2f8f6n0gor9cjob84fgsgma0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medanis.admoblasttest",
+            "certificate_hash": "8862359418dd8e94d42ab477d3e0ca2b400a01d8"
+          }
+        },
+        {
+          "client_id": "375221960976-091jll2ep5a5fsdlsilppvfjejup1ilk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNePt_f0fGKT6GYwJvuyw87GMuOC2sO2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375221960976-091jll2ep5a5fsdlsilppvfjejup1ilk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1974446900209189~4100266380"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375221960976:android:4b7360c9b5f1683a112595",
+        "android_client_info": {
+          "package_name": "com.medanis.myphoneloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375221960976-h3h9uqqolfdrfrkfaiu1pllrqp72e19m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medanis.myphoneloginapp",
+            "certificate_hash": "8862359418dd8e94d42ab477d3e0ca2b400a01d8"
+          }
+        },
+        {
+          "client_id": "375221960976-091jll2ep5a5fsdlsilppvfjejup1ilk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNePt_f0fGKT6GYwJvuyw87GMuOC2sO2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375221960976-091jll2ep5a5fsdlsilppvfjejup1ilk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
